@@ -5,21 +5,21 @@
 Follow this steps to play the game :
 
 ### 1. Clone the repository 
-    start by cloning this repository into your local machine
+start by cloning this repository into your local machine
 
 ```bash
 git clone https://github.com/crawwwler/goldnerova
 ```
 ### 2. Install required dependencies
-    navigate to game directory
-    make sure you have python and pygame installed, 
-    if you don't have pygame , you can install it using pip 
+navigate to game directory
+make sure you have python and pygame installed, 
+if you don't have pygame , you can install it using pip 
 
 ```bash
 pip install pygame
 ```
 ### 3. Run the game
-    run the main script to play the game 
+run the main script to play the game 
 
 ```
 python main.py
