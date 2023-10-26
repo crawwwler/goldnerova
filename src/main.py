@@ -1,32 +1,3 @@
-""" 
-    This game is for 'Mooc Fi' python course 2023, as final exercise.
-    First i wanted to thank all the people involved in this course And, 
-    members of CS department of University of Helsinki. Amazing 
-    course, it did wonders for me!
-    
-    The game Goldnerova includes :
-    - a screen for title and description and rules
-    - a game screen which is the playground and it contains an scoreboard
-    - a notification page for winning and gameover
-    - a menu screen
-
-    How to play :
-      player should control a robot using arrowkeys and trying to 
-      collect coins to reach the goal (20 coins) while avoiding the
-      flying ghosts entering the game from different angles. 
-      After the player reached the goal, the robot should be guided to
-      the door which is the final stage of the game. Bumping into ghosts
-      more than 9 times is the gameover to make sure game will finish at
-      some point in case the player being so bad at it.
-    
-    There is a Menu screen in game which is pretty simple and letting the user
-    exits the game or restarts it.  Completing the game will take 30-90 
-    seconds.
-    ps. hope you do have the font i used for texts - its name is 
-    Showcard Gothic apparently - otherwise with default font it gonna look dead!
-      """
-
-
 import pygame
 import os
 from classes.goldnerova import Goldnerova
