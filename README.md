@@ -28,9 +28,7 @@ python main.py
 ## A brief explanation about the game and rule of the game
 
 This game is for 'Mooc Fi' python course 2023, as final exercise.
-    First i wanted to thank all the people involved in this course And, 
-    members of CS department of University of Helsinki. Amazing 
-    course, it did wonders for me!
+
     
 The game Goldnerova includes :
 - a screen for title and description and rules
